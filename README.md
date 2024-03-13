@@ -27,10 +27,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsme-aswindev&show_icons=true&locale=en&layout=compact" alt="itsme-aswindev" /></p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/itsme-aswindev/itsme-aswindev/output/snake.svg" alt="Snake animation" />
 
 ###
