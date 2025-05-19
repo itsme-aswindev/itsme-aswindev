@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Automation Scripts**
 
-- 👨‍💻 All of my projects are available at [https://itsme-aswindev.github.io/]([https://aswindev.me)
+- 👨‍💻 All of my projects are available at [https://itsme-aswindev.github.io/]([https://itsme-aswindev.github.io/])
 
 - 💬 Ask me about **PS, Python**
 
